@@ -20,7 +20,7 @@ Constructor_WordGuess is a Node,JavaScript Word Guess command-line game using Co
 
 
 
-    * ![Constructor_WordGuess](https://github.com/HET1905/Constructor_WordGuess/blob/master/imageswordGuessConstructor1.gif "Constructor_WordGuess")
+    * ![Constructor_WordGuess](https://github.com/HET1905/Constructor_WordGuess/blob/master/images/wordGuessConstructor1.gif "Constructor_WordGuess")
 
 
 
