@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HET1905/Constructor_WordGuess/issues"
   },
-  "homepage": "https://github.com/HET1905/Constructor_WordGuess#readme"
+  "homepage": "https://github.com/HET1905/Constructor_WordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
 }
